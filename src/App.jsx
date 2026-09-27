@@ -1,9 +1,14 @@
+import Header from "./components/Header/Header";
+import Blogs from "./components/Blogs/Blogs";
+import Bookmarks from "./components/Bookmark/Bookmarks";
 function App() {
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
-      <h1 className="text-4xl font-bold text-red-600">
-        React + Tailwind is working!
-      </h1>
+    <div>
+      <Header></Header>
+      <main className="md:flex">
+        <Blogs></Blogs>
+        <Bookmarks></Bookmarks>
+      </main>
     </div>
   );
 }

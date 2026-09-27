@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "title": "Getting Started with Web Development",
+    "author": "John Smith",
+    "authorImg": "https://i.pravatar.cc/150?img=1",
+    "postedDate": "2026-09-20",
+    "readingTime": 5,
+    "hashtags": ["#webdevelopment", "#coding", "#beginners"]
+  },
+  {
+    "id": 2,
+    "cover": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+    "title": "Understanding JavaScript Fundamentals",
+    "author": "Sarah Wilson",
+    "authorImg": "https://i.pravatar.cc/150?img=2",
+    "postedDate": "2026-09-18",
+    "readingTime": 7,
+    "hashtags": ["#javascript", "#programming", "#webdev"]
+  },
+  {
+    "id": 3,
+    "cover": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+    "title": "Why React Is Popular Among Developers",
+    "author": "Michael Brown",
+    "authorImg": "https://i.pravatar.cc/150?img=3",
+    "postedDate": "2026-09-15",
+    "readingTime": 6,
+    "hashtags": ["#react", "#frontend", "#javascript"]
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "title": "A Beginner's Guide to Git and GitHub",
+    "author": "Emily Davis",
+    "authorImg": "https://i.pravatar.cc/150?img=4",
+    "postedDate": "2026-09-12",
+    "readingTime": 8,
+    "hashtags": ["#git", "#github", "#programming"]
+  },
+  {
+    "id": 5,
+    "cover": "https://images.unsplash.com/photo-1547658719-da2b51169166",
+    "title": "Building Responsive Websites with Tailwind CSS",
+    "author": "David Miller",
+    "authorImg": "https://i.pravatar.cc/150?img=5",
+    "postedDate": "2026-09-10",
+    "readingTime": 10,
+    "hashtags": ["#tailwindcss", "#css", "#responsive"]
+  }
+]
